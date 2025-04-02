@@ -1,0 +1,53 @@
+// Comment out each section before moving to the next
+
+/////////////////////////////////////////////////////////
+// Recap 1: Sliding Square
+
+
+
+/////////////////////////////////////////////////////////
+// Task 1: Self Introduction
+
+
+
+/////////////////////////////////////////////////////////
+// Task 2:
+
+
+
+/////////////////////////////////////////////////////////
+// Task 3: Scrolling Words
+
+
+
+/////////////////////////////////////////////////////////
+// Task 4: Endless Scrolling
+
+let storyText = [
+    "A long time ago in a galaxy far,",
+    "far away...",
+    "",
+    "EPISODE I",
+    "THE BEGINNING",
+    "",
+    "It is a period of learning...",
+    "Students have begun their journey",
+    "into the world of p5.js.",
+    "With newfound powers, they",
+    "create amazing visuals and",
+    "animations...",
+    "",
+    "May the Code be with you!"
+];
+
+/////////////////////////////////////////////////////////
+// Challenge 1: Background music
+
+
+
+/////////////////////////////////////////////////////////
+// Challenge 2: Click to start
+
+
+
+/////////////////////////////////////////////////////////
